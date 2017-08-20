@@ -1,4 +1,4 @@
-# Microsoft LPU Club
+## Microsoft LPU Club
 
 This repository contains the code for the coming soon page of the Microsoft LPU Club.
 
